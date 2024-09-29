@@ -17,12 +17,12 @@ I wrote the code in JupyterNotebook. I used a Datawrapper API to create the visu
 ## Challenges I ran into
 Midway through, a lost puppy wandered into the building and I had to abandon my project to return it to its owner… just kidding! That didn’t happen! I did keep getting error messages, though.
 
-At first, I incorrectly initialized Datawrapper, which made it so that none of the visualizations were showing up. My main challenge was manipulating the dataset so that I could make the charts I had in mind–even after I initialized Datawrapper, it took a hot minute before I could see any of those bad boys.
+At first, I incorrectly initialized Datawrapper, which made it so that none of the visualizations were showing up. My main challenge was manipulating the dataset so that I could make the charts I had in mind–even after I initialized Datawrapper, it was a while before I could see any of those bad boys.
 
 ## Accomplishments that I’m proud of
 I can make graphs! That’s cool! With this program, I could make an inconceivably large number of different graphs! I could sit around for the rest of my life making graphs and still not exhaust its graph-making possibilities! I will not sit around for the rest of my life making graphs but I’m proud that I’ve given myself the option to do so, should the occasion arise! 
 
-I’m proud that I built a function that runs mostly-ish without error, and that I find it genuinely interesting to look at the visualizations it returns.
+I’m proud that I built a program that runs mostly-ish without error, and that I find it genuinely interesting to look at the visualizations it returns.
 
 ## What I learned
 I learned more about cleaning data in JupyterNotebook and Pandas. I also learned some new function calls to make working with dataframes easier, and some common mistakes that may get in the way. I also familiarized myself further with the Datawrapper API and the different types of graphs available. 
