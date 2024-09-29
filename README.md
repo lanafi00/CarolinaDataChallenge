@@ -9,6 +9,7 @@ I wanted the user to have fun inputting different countries and seeing which tre
 ## What it does
 I wrote a function that accepts the input of a name of a given country, then generates a graph of that country’s yearly average per-flight CO2 emission from 2015 to 2022. I also wrote a function that takes the difference between the 2022 average and the 2015 average, then compares it to that of other countries–so that you can find out which country's the biggest loser, haha.  
 
+Separate versions of both functions are available to look at only domestic flights by resident airlines, or to look at all flights by resident airlines. 
 
 ## How I built it
 I wrote the code in JupyterNotebook. I used Datawrapper API to create the visualizations.
