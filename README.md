@@ -30,3 +30,9 @@ I learned more about cleaning data in JupyterNotebook and Pandas. I also learned
 
 ## What's next for Biggest Loser 
 I’d love to be able to set up a web page which accepts inputs from the user, so that they can create visualizations themselves. I’d also like to find a way to assess the overall yearly airline CO2 emissions by country, as I recognize that the mean-per-flight is not always the best measure of success. For instance, if an airline begins offering fewer short-distance flights to preserve fossil fuels, my visualizations would paint them as having become less eco-friendly rather than more.  
+
+## Example visualizations
+<div style="min-height:50px" id="datawrapper-vis-2VxYQ"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/2VxYQ/embed.js" charset="utf-8" data-target="#datawrapper-vis-2VxYQ"></script><noscript><img src="https://datawrapper.dwcdn.net/2VxYQ/full.png" alt="" /></noscript></div>
+
+<div style="min-height:437px" id="datawrapper-vis-q5xBr"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/q5xBr/embed.js" charset="utf-8" data-target="#datawrapper-vis-q5xBr"></script><noscript><img src="https://datawrapper.dwcdn.net/q5xBr/full.png" alt="" /></noscript></div>
+
